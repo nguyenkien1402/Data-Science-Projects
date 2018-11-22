@@ -1,0 +1,1846 @@
+ADDITIONAL INFORMATION:0
+Accountants ACCA:1
+Accounts Assistant:2
+Asia Pacific:3
+Asset Management:4
+Asset Value:5
+Assistant Manager:6
+Assistant Vice:7
+Association Chartered:8
+Audit Assurance:9
+Available request:10
+Bachelor Accountancy:11
+Bachelor Arts:12
+Bachelor Commerce:13
+Bachelor Science:14
+Business Administration:15
+CURRICULAR ACTIVITIES:16
+Cantonese Fluent:17
+Cantonese Native:18
+Capital Markets:19
+Case Competition:20
+Cayman Islands:21
+Certified Accountants:22
+Certified Public:23
+Chartered Accountant:24
+Chartered Accountants:25
+Chartered Certified:26
+Citco Fund:27
+City University:28
+Class Honors:29
+Class Honours:30
+Company Secretarial:31
+Computer Skills:32
+Contact Email:33
+Credit Suisse:34
+Curriculum Vitae:35
+Date Birth:36
+Dean List:37
+Deutsche Bank:38
+Email gmail:39
+Email hotmail:40
+Email yahoo:41
+English Mandarin:42
+Equity Research:43
+Ernst Young:44
+Excel PowerPoint:45
+Excel Word:46
+Exchange Program:47
+Exchange Programme:48
+Expected Salary:49
+Financial Reporting:50
+First Class:51
+Fixed Income:52
+Fluent English:53
+Fund Accountant:54
+Fund Managers:55
+Goldman Sachs:56
+Greater China:57
+HONG KONG:58
+HSBC Institutional:59
+Hedge Fund:60
+Hedge Funds:61
+High School:62
+Holdings Limited:63
+Hong Kong:64
+Independent Financial:65
+Information Technology:66
+Institute Certified:67
+Institute Chartered:68
+Institutional Sales:69
+Institutional Trust:70
+International Holdings:71
+Investment Banking:72
+Junior College:73
+Languages English:74
+Languages Fluent:75
+Level Candidate:76
+Managing Director:77
+Mandarin Cantonese:78
+Master Science:79
+Microsoft Excel:80
+Microsoft Office:81
+Microsoft Word:82
+Mobile Email:83
+Monetary Authority:84
+Morgan Stanley:85
+Nanyang Technological:86
+National University:87
+Native English:88
+PROFESSIONAL EXPERIENCE:89
+PROFESSIONAL QUALIFICATIONS:90
+Private Equity:91
+Proficient Microsoft:92
+Public Accountant:93
+Public Accountants:94
+Real Estate:95
+Reporting Standards:96
+Research Analyst:97
+SKILLS INTERESTS:98
+School Nanyang:99
+Science Technology:100
+Second Class:101
+Secondary School:102
+Senior Associate:103
+Shanghai China:104
+Skills Proficient:105
+Southeast Asia:106
+Standard Chartered:107
+Stock Exchange:108
+Student Exchange:109
+Summer Intern:110
+Sydney Australia:111
+Team Leader:112
+Technical Skills:113
+Technological University:114
+Temasek Polytechnic:115
+Thomson Reuters:116
+Trust Company:117
+UNIVERSITY Bachelor:118
+United Kingdom:119
+United States:120
+Vice President:121
+WORK EXPERIENCE:122
+WORKING EXPERIENCE:123
+Wealth Management:124
+Word Excel:125
+Word PowerPoint:126
+Work Experience:127
+account opening:128
+accounting standards:129
+administrative support:130
+advisory services:131
+analytical skills:132
+asset classes:133
+balance sheet:134
+bank reconciliations:135
+budget forecast:136
+cash flow:137
+cash flows:138
+communication skills:139
+company secretarial:140
+corporate actions:141
+corporate finance:142
+corporate governance:143
+daily basis:144
+debt equity:145
+discounted cash:146
+ensure smooth:147
+external auditors:148
+external parties:149
+financial institutions:150
+financial statements:151
+fixed income:152
+fluent English:153
+full spectrum:154
+fund accountants:155
+fund administrators:156
+gmail Mobile:157
+hedge funds:158
+holding company:159
+information memorandum:160
+internal control:161
+internal controls:162
+internal external:163
+interpersonal skills:164
+journal entries:165
+mail gmail:166
+marketing materials:167
+month closing:168
+month notice:169
+monthly basis:170
+mutual funds:171
+pension funds:172
+phone calls:173
+pitch books:174
+policies procedures:175
+potential investors:176
+presentation materials:177
+prime brokers:178
+private equity:179
+problem solving:180
+real estate:181
+regulatory requirements:182
+related matters:183
+service providers:184
+sovereign wealth:185
+spoken written:186
+team members:187
+team player:188
+tight deadlines:189
+timely manner:190
+unit trusts:191
+variance analysis:192
+weekly monthly:193
+wide range:194
+work pressure:195
+worked closely:196
+written spoken:197
+year months:198
+years experience:199
+100m:0
+1986:1
+1988:2
+1989:3
+1990:4
+1991:5
+1993:6
+1994:7
+1995:8
+1996:9
+1997:10
+1998:11
+1999:12
+2000:13
+2001:14
+2002:15
+2003:16
+2004:17
+2005:18
+2006:19
+2007:20
+2008:21
+2009:22
+2010:23
+2011:24
+2012:25
+2013:26
+2014:27
+2015:28
+2016:29
+2017:30
+2018:31
+300m:32
+abil:33
+abl:34
+absolut:35
+academ:36
+academi:37
+acca:38
+accept:39
+access:40
+accomplish:41
+accord:42
+account:43
+accrual:44
+accur:45
+accuraci:46
+achiev:47
+acquir:48
+acquisit:49
+act:50
+action:51
+activ:52
+actual:53
+adapt:54
+addit:55
+address:56
+adept:57
+adequ:58
+adequaci:59
+adher:60
+adjust:61
+admin:62
+administ:63
+administr:64
+admiss:65
+adob:66
+adopt:67
+advanc:68
+advantag:69
+advent:70
+advertis:71
+advic:72
+advis:73
+advisor:74
+advisori:75
+aerospac:76
+affair:77
+affect:78
+affili:79
+africa:80
+age:81
+agenc:82
+agenda:83
+agent:84
+aggreg:85
+agre:86
+agreement:87
+agricultur:88
+airport:89
+allianc:90
+alloc:91
+altern:92
+alumni:93
+america:94
+american:95
+analys:96
+analysi:97
+analyst:98
+analyt:99
+analyz:100
+andrew:101
+angel:102
+anglochines:103
+announc:104
+annual:105
+annum:106
+answer:107
+antimoney:108
+apac:109
+apex:110
+appli:111
+applic:112
+appoint:113
+apprais:114
+approach:115
+appropri:116
+approv:117
+approxim:118
+april:119
+area:120
+aris:121
+arm:122
+arrang:123
+art:124
+ascenda:125
+asean:126
+asia:127
+asian:128
+asiapacif:129
+aspect:130
+assess:131
+asset:132
+assign:133
+assist:134
+associ:135
+assumpt:136
+assur:137
+attain:138
+attempt:139
+attend:140
+attent:141
+attitud:142
+attract:143
+attribut:144
+auction:145
+audit:146
+auditor:147
+august:148
+australia:149
+australian:150
+author:151
+auto:152
+autom:153
+avail:154
+avenu:155
+averag:156
+aviat:157
+awar:158
+award:159
+bachelor:160
+back:161
+background:162
+badminton:163
+bahasa:164
+balanc:165
+bangkok:166
+bank:167
+banker:168
+base:169
+basi:170
+basic:171
+basketbal:172
+batch:173
+bedok:174
+behalf:175
+beij:176
+benchmark:177
+benefit:178
+best:179
+beta:180
+beverag:181
+bill:182
+billion:183
+biolog:184
+birth:185
+block:186
+bloomberg:187
+blue:188
+board:189
+bodi:190
+bond:191
+book:192
+bookkeep:193
+border:194
+borrow:195
+boston:196
+bottom:197
+branch:198
+brand:199
+break:200
+bridg:201
+brief:202
+bring:203
+british:204
+broad:205
+broker:206
+brokerag:207
+brook:208
+budget:209
+build:210
+built:211
+busi:212
+buyer:213
+buyout:214
+calcul:215
+call:216
+cambridg:217
+camp:218
+campaign:219
+campu:220
+canada:221
+candid:222
+cantones:223
+capabl:224
+capac:225
+capex:226
+capit:227
+captain:228
+captur:229
+card:230
+care:231
+career:232
+carri:233
+case:234
+cash:235
+cashflow:236
+cayman:237
+center:238
+centr:239
+central:240
+certif:241
+certifi:242
+cgpa:243
+chain:244
+chairman:245
+challeng:246
+chamber:247
+champion:248
+chan:249
+chang:250
+changi:251
+channel:252
+charg:253
+charit:254
+chariti:255
+chart:256
+charter:257
+check:258
+checklist:259
+chemic:260
+chemistri:261
+cheng:262
+chequ:263
+cheung:264
+chicago:265
+chief:266
+children:267
+china:268
+chines:269
+chio:270
+chong:271
+chung:272
+circular:273
+citco:274
+citi:275
+citibank:276
+citic:277
+citizen:278
+citizenship:279
+claim:280
+class:281
+classif:282
+clear:283
+cleric:284
+clerk:285
+client:286
+close:287
+closur:288
+club:289
+coach:290
+coal:291
+code:292
+cohort:293
+cold:294
+collabor:295
+collat:296
+collater:297
+colleagu:298
+collect:299
+colleg:300
+combin:301
+command:302
+commend:303
+comment:304
+commentari:305
+commerc:306
+commerci:307
+commiss:308
+commit:309
+committe:310
+commod:311
+common:312
+commun:313
+compani:314
+compar:315
+comparison:316
+compet:317
+competit:318
+competitor:319
+compil:320
+complet:321
+complex:322
+compli:323
+complianc:324
+compliant:325
+compon:326
+comprehens:327
+comput:328
+concept:329
+concern:330
+conclus:331
+concurr:332
+condit:333
+conduct:334
+confer:335
+confid:336
+confidenti:337
+confirm:338
+conflict:339
+conglomer:340
+connect:341
+consecut:342
+consider:343
+consist:344
+consolid:345
+consortium:346
+constantli:347
+construct:348
+consult:349
+consum:350
+contact:351
+content:352
+context:353
+conting:354
+continu:355
+contract:356
+contractor:357
+contractu:358
+contribut:359
+contributor:360
+control:361
+convers:362
+convert:363
+cook:364
+cooper:365
+coordin:366
+core:367
+corp:368
+corpor:369
+correct:370
+correctli:371
+correspond:372
+cost:373
+council:374
+counsel:375
+counter:376
+counterpart:377
+counterparti:378
+countri:379
+coupl:380
+cours:381
+coursework:382
+court:383
+coven:384
+cover:385
+coverag:386
+creat:387
+creation:388
+creativ:389
+credit:390
+crescent:391
+critic:392
+cross:393
+crossbord:394
+cultur:395
+cumul:396
+currenc:397
+current:398
+curricular:399
+curriculum:400
+custodi:401
+custodian:402
+custom:403
+cycl:404
+daili:405
+danc:406
+data:407
+databas:408
+date:409
+day:410
+deadlin:411
+deal:412
+dealt:413
+dean:414
+debat:415
+debt:416
+decemb:417
+decis:418
+deck:419
+dedic:420
+default:421
+defenc:422
+defici:423
+degre:424
+deleg:425
+delhi:426
+deliv:427
+deliver:428
+deliveri:429
+deloitt:430
+demand:431
+demonstr:432
+depart:433
+department:434
+deploy:435
+deposit:436
+depth:437
+deputi:438
+deriv:439
+descript:440
+design:441
+desk:442
+detail:443
+detect:444
+determin:445
+deutsch:446
+develop:447
+differ:448
+difficult:449
+digit:450
+dilig:451
+dinner:452
+diploma:453
+direct:454
+directli:455
+director:456
+disciplin:457
+disclosur:458
+discount:459
+discov:460
+discrep:461
+discretionari:462
+discuss:463
+display:464
+disput:465
+distinct:466
+distress:467
+distribut:468
+distributor:469
+dive:470
+divers:471
+diversifi:472
+divest:473
+dividend:474
+divis:475
+document:476
+dollar:477
+domest:478
+doubl:479
+draft:480
+dragon:481
+drive:482
+driven:483
+driver:484
+drove:485
+dual:486
+dubai:487
+duplic:488
+duti:489
+dynam:490
+earli:491
+earn:492
+east:493
+eastern:494
+econom:495
+economi:496
+educ:497
+effect:498
+effici:499
+effort:500
+elect:501
+electr:502
+electron:503
+elimin:504
+email:505
+emerg:506
+employ:507
+employe:508
+enabl:509
+encourag:510
+energi:511
+engag:512
+engin:513
+england:514
+english:515
+enhanc:516
+enjoy:517
+enquiri:518
+enrol:519
+ensur:520
+enter:521
+enterpris:522
+entertain:523
+enthusiast:524
+entir:525
+entiti:526
+entranc:527
+entrepreneurship:528
+entri:529
+environ:530
+environment:531
+equip:532
+equiti:533
+ernst:534
+error:535
+escal:536
+essenti:537
+establish:538
+estat:539
+estim:540
+ethic:541
+europ:542
+european:543
+evalu:544
+event:545
+evid:546
+exam:547
+examin:548
+exceed:549
+excel:550
+except:551
+excess:552
+exchang:553
+execut:554
+exempt:555
+exercis:556
+exhibit:557
+exist:558
+exit:559
+expand:560
+expans:561
+expect:562
+expenditur:563
+expens:564
+experi:565
+experienc:566
+expert:567
+expertis:568
+explor:569
+export:570
+exposur:571
+express:572
+extens:573
+extern:574
+extra:575
+extracurricular:576
+face:577
+facil:578
+facilit:579
+factor:580
+factset:581
+faculti:582
+fair:583
+fall:584
+famili:585
+familiar:586
+farm:587
+fast:588
+fastpac:589
+fatca:590
+feasibl:591
+februari:592
+feder:593
+fee:594
+feedback:595
+feeder:596
+femal:597
+festiv:598
+fiduciari:599
+field:600
+fieldwork:601
+figur:602
+file:603
+fill:604
+final:605
+financ:606
+financi:607
+find:608
+finish:609
+fire:610
+firm:611
+first:612
+fit:613
+fix:614
+flat:615
+flexibl:616
+flow:617
+fluctuat:618
+fluent:619
+fmcg:620
+focu:621
+focus:622
+follow:623
+food:624
+footbal:625
+forc:626
+forecast:627
+foreign:628
+forex:629
+form:630
+forma:631
+formal:632
+format:633
+formul:634
+fortun:635
+forum:636
+forward:637
+foster:638
+found:639
+foundat:640
+founder:641
+framework:642
+franc:643
+fraud:644
+freight:645
+french:646
+frequent:647
+front:648
+fulfil:649
+full:650
+fulli:651
+fulltim:652
+function:653
+fund:654
+fundament:655
+fundrais:656
+futur:657
+gaap:658
+gain:659
+game:660
+gap:661
+garden:662
+gather:663
+gave:664
+gender:665
+gener:666
+geneva:667
+geograph:668
+geographi:669
+german:670
+germani:671
+girl:672
+give:673
+global:674
+gmail:675
+gmat:676
+goal:677
+gold:678
+goldman:679
+golf:680
+good:681
+govern:682
+grade:683
+graduat:684
+grand:685
+great:686
+greater:687
+group:688
+grow:689
+growth:690
+guarante:691
+guid:692
+guidanc:693
+guidelin:694
+half:695
+hall:696
+hand:697
+handl:698
+harbour:699
+head:700
+headquart:701
+health:702
+healthcar:703
+hedg:704
+held:705
+help:706
+high:707
+higher:708
+highest:709
+highli:710
+highlight:711
+hike:712
+hindi:713
+hire:714
+histor:715
+histori:716
+hkex:717
+hkfr:718
+hkic:719
+hkicpa:720
+hkma:721
+hksi:722
+hobbi:723
+hokkien:724
+hold:725
+holder:726
+home:727
+hon:728
+hong:729
+honor:730
+honour:731
+hospit:732
+hotel:733
+hotmail:734
+hour:735
+hous:736
+hsbc:737
+http:738
+human:739
+hung:740
+idea:741
+identif:742
+identifi:743
+ielt:744
+ifr:745
+illustr:746
+immedi:747
+impact:748
+impair:749
+implement:750
+implic:751
+import:752
+improv:753
+inanci:754
+inat:755
+incent:756
+includ:757
+inclus:758
+incom:759
+incorpor:760
+increas:761
+independ:762
+index:763
+india:764
+indian:765
+indic:766
+individu:767
+indonesia:768
+indonesian:769
+industri:770
+inform:771
+infrastructur:772
+ing:773
+initi:774
+inland:775
+innov:776
+input:777
+inquiri:778
+insead:779
+insight:780
+inspect:781
+institut:782
+instruct:783
+instrument:784
+insur:785
+integr:786
+intellectu:787
+intellig:788
+intens:789
+inter:790
+interact:791
+intercompani:792
+interest:793
+interfac:794
+interim:795
+intermedi:796
+intermediari:797
+intern:798
+internet:799
+internship:800
+interperson:801
+interpret:802
+interview:803
+introduc:804
+introduct:805
+inventori:806
+invest:807
+investig:808
+investor:809
+investran:810
+invit:811
+invoic:812
+involv:813
+ion:814
+ional:815
+isca:816
+isda:817
+island:818
+issu:819
+issuanc:820
+item:821
+januari:822
+japan:823
+japanes:824
+java:825
+john:826
+join:827
+joint:828
+journal:829
+juli:830
+june:831
+junior:832
+jurisdict:833
+jurong:834
+keen:835
+keep:836
+king:837
+kingdom:838
+knowledg:839
+kong:840
+korea:841
+kowloon:842
+kpmg:843
+land:844
+landscap:845
+languag:846
+larg:847
+largest:848
+latest:849
+launch:850
+launder:851
+law:852
+lawyer:853
+lead:854
+leader:855
+leadership:856
+learn:857
+learner:858
+learnt:859
+leas:860
+leav:861
+ledger:862
+legal:863
+legisl:864
+lend:865
+letter:866
+leung:867
+level:868
+leverag:869
+liabil:870
+liais:871
+liaison:872
+licens:873
+life:874
+light:875
+limit:876
+line:877
+lingnan:878
+link:879
+linkedin:880
+liquid:881
+list:882
+literaci:883
+litig:884
+live:885
+loan:886
+local:887
+locat:888
+logist:889
+london:890
+long:891
+loss:892
+lower:893
+luxembourg:894
+macquari:895
+macro:896
+macroeconom:897
+made:898
+mail:899
+main:900
+mainland:901
+maintain:902
+mainten:903
+major:904
+make:905
+maker:906
+malay:907
+malaysia:908
+male:909
+mall:910
+manag:911
+manageri:912
+mandarin:913
+mandat:914
+mandatori:915
+manila:916
+manner:917
+manpow:918
+manual:919
+manufactur:920
+map:921
+marathon:922
+march:923
+margin:924
+marin:925
+marit:926
+market:927
+marri:928
+master:929
+match:930
+materi:931
+math:932
+mathemat:933
+matter:934
+matur:935
+mauritiu:936
+maxim:937
+measur:938
+mechan:939
+medal:940
+media:941
+medic:942
+meet:943
+melbourn:944
+mellon:945
+member:946
+membership:947
+memo:948
+memorandum:949
+mentor:950
+mentorship:951
+merchant:952
+merg:953
+merger:954
+merit:955
+method:956
+methodolog:957
+meticul:958
+metric:959
+mezzanin:960
+microsoft:961
+middl:962
+migrat:963
+million:964
+mind:965
+mine:966
+minim:967
+ministri:968
+minor:969
+minut:970
+mission:971
+mitig:972
+mobil:973
+model:974
+modul:975
+monetari:976
+money:977
+monitor:978
+month:979
+monthli:980
+morgan:981
+morningstar:982
+motiv:983
+motor:984
+move:985
+movement:986
+movi:987
+multi:988
+multifond:989
+multin:990
+multipl:991
+multitask:992
+mumbai:993
+music:994
+mutual:995
+myob:996
+name:997
+nanyang:998
+nation:999
+nationwid:1000
+nativ:1001
+natur:1002
+nav:1003
+need:1004
+negoti:1005
+network:1006
+newli:1007
+news:1008
+newslett:1009
+ngee:1010
+north:1011
+notabl:1012
+note:1013
+notic:1014
+notif:1015
+novemb:1016
+nta:1017
+number:1018
+numer:1019
+object:1020
+oblig:1021
+observ:1022
+obtain:1023
+ocbc:1024
+octob:1025
+offer:1026
+offic:1027
+offici:1028
+offshor:1029
+onboard:1030
+ongo:1031
+onlin:1032
+onshor:1033
+open:1034
+oper:1035
+opinion:1036
+opportun:1037
+optim:1038
+option:1039
+oracl:1040
+oral:1041
+order:1042
+ordin:1043
+organ:1044
+organis:1045
+organiz:1046
+orient:1047
+origin:1048
+other:1049
+outgo:1050
+outlook:1051
+outperform:1052
+output:1053
+outsourc:1054
+outstand:1055
+overal:1056
+overdu:1057
+overse:1058
+oversea:1059
+oversight:1060
+overview:1061
+own:1062
+owner:1063
+oxford:1064
+pacif:1065
+pack:1066
+packag:1067
+page:1068
+paid:1069
+paper:1070
+pariba:1071
+park:1072
+part:1073
+parti:1074
+particip:1075
+particular:1076
+partner:1077
+partnership:1078
+parttim:1079
+pass:1080
+passion:1081
+past:1082
+paxu:1083
+payabl:1084
+payment:1085
+payrol:1086
+peer:1087
+pension:1088
+peopl:1089
+perform:1090
+period:1091
+perman:1092
+permit:1093
+person:1094
+personnel:1095
+perspect:1096
+petroleum:1097
+pharmaceut:1098
+phase:1099
+philippin:1100
+phone:1101
+photographi:1102
+photoshop:1103
+physic:1104
+piano:1105
+pick:1106
+pioneer:1107
+pipelin:1108
+pitch:1109
+pivot:1110
+place:1111
+placement:1112
+plan:1113
+plant:1114
+platform:1115
+play:1116
+player:1117
+point:1118
+polici:1119
+polit:1120
+polytechn:1121
+pool:1122
+portal:1123
+portfolio:1124
+posit:1125
+possess:1126
+post:1127
+potenti:1128
+power:1129
+powerpoint:1130
+practic:1131
+practis:1132
+preced:1133
+prefer:1134
+preliminari:1135
+premium:1136
+prepar:1137
+present:1138
+presid:1139
+press:1140
+pressur:1141
+prestigi:1142
+previou:1143
+previous:1144
+price:1145
+pricewaterhousecoop:1146
+primari:1147
+primarili:1148
+prime:1149
+princip:1150
+principl:1151
+prior:1152
+privat:1153
+prize:1154
+proactiv:1155
+probabl:1156
+problem:1157
+procedur:1158
+proceed:1159
+process:1160
+produc:1161
+product:1162
+profession:1163
+professor:1164
+profici:1165
+profil:1166
+profit:1167
+program:1168
+programm:1169
+progress:1170
+project:1171
+promot:1172
+prompt:1173
+promptli:1174
+proper:1175
+properli:1176
+properti:1177
+propos:1178
+prospect:1179
+prospectu:1180
+protect:1181
+proven:1182
+provid:1183
+provis:1184
+prudenti:1185
+public:1186
+publish:1187
+purchas:1188
+purpos:1189
+pursu:1190
+putonghua:1191
+qualif:1192
+qualifi:1193
+qualit:1194
+qualiti:1195
+quantit:1196
+quarter:1197
+quarterli:1198
+queri:1199
+quick:1200
+quickbook:1201
+race:1202
+rais:1203
+rang:1204
+rank:1205
+rapport:1206
+rate:1207
+ratio:1208
+reach:1209
+read:1210
+reader:1211
+readi:1212
+real:1213
+realiz:1214
+reason:1215
+receipt:1216
+receiv:1217
+recent:1218
+recipi:1219
+recogn:1220
+recognit:1221
+recommend:1222
+reconcil:1223
+reconcili:1224
+record:1225
+recruit:1226
+redempt:1227
+reduc:1228
+reduct:1229
+refer:1230
+refere:1231
+referr:1232
+refin:1233
+region:1234
+regist:1235
+registr:1236
+registri:1237
+regul:1238
+regular:1239
+regulatori:1240
+reit:1241
+relat:1242
+relationship:1243
+releas:1244
+relev:1245
+reliabl:1246
+reloc:1247
+renew:1248
+rental:1249
+repli:1250
+report:1251
+repres:1252
+republ:1253
+reput:1254
+request:1255
+requir:1256
+research:1257
+reserv:1258
+resid:1259
+residenti:1260
+resolut:1261
+resolv:1262
+resourc:1263
+respect:1264
+respond:1265
+respons:1266
+restrict:1267
+restructur:1268
+result:1269
+resum:1270
+retail:1271
+return:1272
+reuter:1273
+revamp:1274
+revenu:1275
+review:1276
+revis:1277
+reward:1278
+right:1279
+risk:1280
+rmit:1281
+road:1282
+roadshow:1283
+robust:1284
+role:1285
+roll:1286
+room:1287
+rotat:1288
+round:1289
+royal:1290
+rule:1291
+run:1292
+runner:1293
+sach:1294
+salari:1295
+sale:1296
+sampl:1297
+satisfact:1298
+save:1299
+scale:1300
+scenario:1301
+schedul:1302
+scheme:1303
+scholar:1304
+scholarship:1305
+school:1306
+schroder:1307
+scienc:1308
+scope:1309
+score:1310
+scratch:1311
+screen:1312
+search:1313
+season:1314
+second:1315
+secondari:1316
+secretari:1317
+section:1318
+sector:1319
+secur:1320
+seek:1321
+segment:1322
+segreg:1323
+select:1324
+selfmotiv:1325
+sell:1326
+seller:1327
+sellsid:1328
+semest:1329
+semifinalist:1330
+seminar:1331
+seng:1332
+senior:1333
+sensit:1334
+separ:1335
+sept:1336
+septemb:1337
+sergeant:1338
+seri:1339
+serv:1340
+servic:1341
+session:1342
+set:1343
+settlement:1344
+setup:1345
+shanghai:1346
+share:1347
+sharehold:1348
+sheet:1349
+shell:1350
+shenzhen:1351
+ship:1352
+shop:1353
+short:1354
+show:1355
+side:1356
+sign:1357
+signatori:1358
+signific:1359
+significantli:1360
+silver:1361
+sinc:1362
+sing:1363
+singapor:1364
+singaporean:1365
+singaporelist:1366
+singl:1367
+site:1368
+situat:1369
+size:1370
+skill:1371
+slide:1372
+small:1373
+smooth:1374
+soccer:1375
+social:1376
+societi:1377
+softwar:1378
+sold:1379
+sole:1380
+solicitor:1381
+solid:1382
+solut:1383
+solv:1384
+sotp:1385
+sound:1386
+sourc:1387
+south:1388
+southeast:1389
+sovereign:1390
+space:1391
+span:1392
+spanish:1393
+speak:1394
+speaker:1395
+spearhead:1396
+special:1397
+specialis:1398
+specialist:1399
+specif:1400
+spectrum:1401
+spoken:1402
+sponsor:1403
+sponsorship:1404
+sport:1405
+spring:1406
+spss:1407
+staff:1408
+stage:1409
+stake:1410
+stakehold:1411
+standard:1412
+stanley:1413
+star:1414
+start:1415
+startup:1416
+state:1417
+statement:1418
+station:1419
+statist:1420
+statu:1421
+statutori:1422
+step:1423
+stock:1424
+store:1425
+strateg:1426
+strategi:1427
+stream:1428
+streamlin:1429
+street:1430
+strength:1431
+stress:1432
+strong:1433
+structur:1434
+student:1435
+studi:1436
+subject:1437
+submiss:1438
+submit:1439
+subscript:1440
+subsequ:1441
+subsidiari:1442
+substanti:1443
+success:1444
+suffici:1445
+suggest:1446
+suiss:1447
+suit:1448
+suitabl:1449
+summari:1450
+summer:1451
+superior:1452
+supervis:1453
+supervisor:1454
+supervisori:1455
+suppli:1456
+supplier:1457
+support:1458
+survey:1459
+sustain:1460
+swap:1461
+swift:1462
+swim:1463
+swiss:1464
+switzerland:1465
+sydney:1466
+syndic:1467
+synergi:1468
+system:1469
+tabl:1470
+tactic:1471
+tailor:1472
+taiwan:1473
+taiwanes:1474
+take:1475
+takeov:1476
+target:1477
+task:1478
+taxat:1479
+teach:1480
+team:1481
+teammat:1482
+teamwork:1483
+teaser:1484
+tech:1485
+technic:1486
+techniqu:1487
+technolog:1488
+telecom:1489
+telecommun:1490
+telephon:1491
+temasek:1492
+templat:1493
+temporari:1494
+tenni:1495
+term:1496
+termin:1497
+test:1498
+thai:1499
+thailand:1500
+theori:1501
+thesi:1502
+think:1503
+third:1504
+thomson:1505
+thought:1506
+tianjin:1507
+ticket:1508
+tier:1509
+tight:1510
+till:1511
+time:1512
+timelin:1513
+ting:1514
+titl:1515
+tong:1516
+took:1517
+tool:1518
+topic:1519
+toronto:1520
+total:1521
+touch:1522
+tourism:1523
+tower:1524
+town:1525
+track:1526
+trade:1527
+trader:1528
+tradit:1529
+train:1530
+traine:1531
+transact:1532
+transfer:1533
+transform:1534
+transit:1535
+translat:1536
+transport:1537
+travel:1538
+treasur:1539
+treasuri:1540
+treatment:1541
+trek:1542
+trend:1543
+tricor:1544
+trip:1545
+true:1546
+trust:1547
+truste:1548
+turnaround:1549
+turnov:1550
+type:1551
+under:1552
+undergradu:1553
+underli:1554
+understand:1555
+understood:1556
+undertak:1557
+undertaken:1558
+underwrit:1559
+union:1560
+unit:1561
+univers:1562
+unlist:1563
+unusu:1564
+upcom:1565
+updat:1566
+upgrad:1567
+upper:1568
+usag:1569
+use:1570
+user:1571
+util:1572
+valid:1573
+valu:1574
+valuabl:1575
+valuat:1576
+valuer:1577
+varianc:1578
+varieti:1579
+vehicl:1580
+vendor:1581
+ventur:1582
+verbal:1583
+verif:1584
+verifi:1585
+vers:1586
+vessel:1587
+vice:1588
+video:1589
+vietnam:1590
+view:1591
+visa:1592
+visit:1593
+visual:1594
+vita:1595
+vlookup:1596
+volum:1597
+volunt:1598
+voluntari:1599
+voucher:1600
+wale:1601
+walkthrough:1602
+wall:1603
+water:1604
+waterfal:1605
+weak:1606
+wealth:1607
+websit:1608
+week:1609
+weekli:1610
+welfar:1611
+well:1612
+western:1613
+wholesal:1614
+wide:1615
+win:1616
+wind:1617
+wing:1618
+winner:1619
+winter:1620
+with:1621
+wong:1622
+word:1623
+work:1624
+workflow:1625
+workload:1626
+workshop:1627
+world:1628
+worldwid:1629
+worth:1630
+write:1631
+written:1632
+wrote:1633
+xbrl:1634
+yahoo:1635
+year:1636
+yearli:1637
+yield:1638
+ying:1639
+york:1640
+young:1641
+youth:1642
+yuen:1643
+zealand:1644
+zhang:1645
